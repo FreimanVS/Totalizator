@@ -1,1 +1,1 @@
-# Totalizator
+Otus HomeWork Week 2
