@@ -1,1 +1,1 @@
-A totalizator
+A totalizator with embedded tomcat
